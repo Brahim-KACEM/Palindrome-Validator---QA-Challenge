@@ -1,6 +1,6 @@
 # Palindrome Validator - QA Challenge
 
-This project implements a robust palindrome validator in Java with comprehensive test cases.
+This project implements a palindrome validator in Java with comprehensive test cases.
 
 ## Overview
 
